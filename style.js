@@ -21,7 +21,7 @@ li {
 }
 
 .not-attending {
-  color: red;
+  color: blue;
   font-weight: bold;
 }
 `;
